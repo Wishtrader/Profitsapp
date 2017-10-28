@@ -1,0 +1,18 @@
+{
+  "name": "Clinment_prj",
+  "description": "Clinment",
+  "main": "index.js",
+  "authors": [
+    "Andrei Kamarou"
+  ],
+  "license": "ISC",
+  "homepage": "http://craneglee.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ]
+}
